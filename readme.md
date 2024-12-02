@@ -18,4 +18,5 @@ Ejecución:
     · Abrir navegado web de preferencia e introducir la url: localhost/"la dirección de la carpeta dónde se encuentra el ejercicio o proyecto"
 
 Descripción ejercicios:
-    
+    ·1.1-Php basics-nivell1:"Defineix una variable de cada tipus: integer, double, string i boolean. Imprimeix-les per pantalla.
+                            Després crea una constant que inclogui el teu nom i mostra-ho en format títol per pantalla."
