@@ -16,5 +16,4 @@ function verificarGrado(int $nota) : void {
 
 }
 
-verificarGrado(5);
 ?>
