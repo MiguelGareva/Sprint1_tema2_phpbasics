@@ -11,4 +11,10 @@ echo "X = " . $x . ", Y = " . $y . "<br>";
 echo $x . " + " . $y . " = " . $x + $y . "<br>";
 echo $x . " - " . $y . " = " . $x - $y . "<br>";
 echo $x . " * " . $y . " = " . $x * $y . "<br>";
-echo $x . " / " . $y . " = " . $x / $y . "<br>";
+echo $x . " / " . $y . " = " . $x / $y . "<br>" . "<br>";
+
+echo "M = " . $m . ", N = " . $n . "<br>";
+echo $m . " + " . $n . " = " . $m + $n . "<br>";
+echo $m . " - " . $n . " = " . $m - $n . "<br>";
+echo $m . " * " . $n . " = " . $m * $n . "<br>";
+echo $m . " / " . $n . " = " . $m / $n . "<br>" . "<br>";
