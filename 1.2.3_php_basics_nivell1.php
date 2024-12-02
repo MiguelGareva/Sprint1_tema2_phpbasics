@@ -18,3 +18,34 @@ echo $m . " + " . $n . " = " . $m + $n . "<br>";
 echo $m . " - " . $n . " = " . $m - $n . "<br>";
 echo $m . " * " . $n . " = " . $m * $n . "<br>";
 echo $m . " / " . $n . " = " . $m / $n . "<br>" . "<br>";
+
+echo "Doble de X = " . $x*2 . ", de Y = " . $y*2 . ", de M = " . $m*2 . ", de N = " . $n*2 . "<br>";
+echo "La suma de todos los valores es = " . $x + $y + $m + $n . "<br>";
+echo "El producto de todos los valores es = " . $x * $y * $m * $n . "<br>";
+
+function Calcular(int $num1, int $num2, string $operador) : float{
+
+    $resultado = "";
+
+    switch ($operador) {
+        case '+':
+            $resultado = $num1 + $num2;
+            break;
+        case '-':
+            $resultado = $num1 - $num2;
+            break;
+        case '*':
+            $resultado = $num1 * $num2;
+            break;
+        case '/':
+            $resultado = $num1 / $num2;
+            break;
+        default:
+            echo "Error";
+            break;
+    }
+
+    return $resultado;
+}
+
+?>
