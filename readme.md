@@ -27,7 +27,8 @@ Descripción ejercicios:
                             Imprimeix per pantalla l'string en ordre invers de caràcters.
                             Crea una nova variable amb el contingut “Aquest és el curs de PHP” i imprimeix per pantalla la concatenació de tots dos strings."
 
-    ·1.2.3-Php basics-nivell1:"a) Declara dues variables X i Y de tipus int, dues variables N i M de tipus double i assigna a       cadascuna un valor. A continuació, mostra per pantalla per a X i Y:
+    ·1.2.3-Php basics-nivell1:"a) Declara dues variables X i Y de tipus int, dues variables N i M de tipus double i assigna a 
+                            cadascuna un valor. A continuació, mostra per pantalla per a X i Y:
 
                                 El valor de cada variable.
                                 La suma.
@@ -42,3 +43,6 @@ Descripción ejercicios:
                                 La suma de totes les variables.
                                 El producte de totes les variables.
                                 b) Crea una funció Calculadora que entri dos nombres per paràmetre, i en un tercer paràmetre et permeti fer la suma, la resta, la multiplicació o la divisió dels dos nombres."
+
+    ·1.2.4-Php basics-nivell1:"Fes un programa que implementi una funció on es compti fins a un nombre determinat. Si no s’inclou un
+                            nombre determinat, el nombre haurà de tenir un valor per defecte igual a 10. A més, aquesta funció ha de tenir un segon paràmetre que indiqui de quant a quant es compta(D'1 en 1, de 2 en 2…). El compte s’ha de mostrar per pantalla pas per pas."
