@@ -19,7 +19,8 @@ Ejecución:
 
 Descripción ejercicios:
     ·1.2.1-Php basics-nivell1:"Defineix una variable de cada tipus: integer, double, string i boolean. Imprimeix-les per pantalla.
-                            Després crea una constant que inclogui el teu nom i mostra-ho en format títol per pantalla."
+                            Després crea una constant que inclogui el teu nom i mostra-ho en format títol per pantalla.""<br>"
+                            
     ·1.2.2-Php basics-nivel1:"Imprimeix per pantalla "Hello, World!" utilitzant una variable. En acabat:
                             Transforma tots els caràcters de l'string a majúscules i imprimeix en pantalla.
                             Imprimeix per pantalla la mida (longitud) de la variable.
