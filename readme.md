@@ -49,4 +49,8 @@
     
 **<h4>Nivel 2:</h4>**
     · <a href="1.2.1_php_basics_nivell2.php">Ejercicio #1</a>: *"Escriu una funció que determini la quantitat total a pagar per una trucada telefònica segons les següents premisses:<br>·Tota trucada que duri menys de 3 minuts té un cost de 10 cèntims.<br>·Cada minut addicional a partir dels 3 primers és un pas de comptador i costa 5 cèntims."*<br>
-    · <a href="1.2.2_php_basics_nivell2.php">Ejercicio #2</a>: *"Imagina que som a una botiga on es ven:<br>·Xocolata: 1 euro<br>·Xiclets: 0,50 euros<br>·Caramels: 1,50 euros<br>Implementa un programa que permeti afegir càlculs a un total de compres d'aquest tipus."*<br>
+    · <a href="1.2.2_php_basics_nivell2.php">Ejercicio #2</a>: *"Imagina que som a una botiga on es ven:<br>·Xocolata: 1 euro<br>·Xiclets: 0,50 euros<br>·Caramels: 1,50 euros<br>Implementa un programa que permeti afegir càlculs a un total de compres d'aquest tipus."*<br><br>
+
+**<h4>Nivel 3:</h4>**
+    · <a href="1.2.1_php_basics_nivell3.php">Ejercicio #1</a>: *"El sedàs d'Eratòstenes és un algoritme pensat per a trobar nombres primers dins d'un interval donat. Basant-te en la informació de l'enllaç adjunt, implementa el sedàs d'Eratòstenes dins d'una funció, de tal forma que puguem invocar la funció per a un número concret."*<br>
+
