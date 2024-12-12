@@ -23,7 +23,7 @@ echo "Doble de X = " . $x*2 . ", de Y = " . $y*2 . ", de M = " . $m*2 . ", de N 
 echo "La suma de todos los valores es = " . $x + $y + $m + $n . "<br>";
 echo "El producto de todos los valores es = " . $x * $y * $m * $n . "<br>";
 
-function Calcular(int $num1, int $num2, string $operador) : float{
+function Calcular(float $num1, float $num2, string $operador) : mixed{
 
     $resultado = "";
 
